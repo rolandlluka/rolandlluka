@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roland LLuka</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Kosovo</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rolandlluka" alt="rolandlluka" /></a> </p>
+<p align="left"> <a href="https://github.com/rolandlluka/github-profile-trophy"><img src="https://github.com/rolandlluka/skysim-noc" alt="rolandlluka" /></a> </p>
 
 - 🔭 I’m currently working on [AMK](https://joinscholar.com)
 
