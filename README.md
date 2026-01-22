@@ -64,9 +64,3 @@ Strong focus on performance, clean architecture, and production-ready code.
 </p>
 
 📧 **Email:** rolandlluka@gmail.com
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rolandlluka&show_icons=true&locale=en" />
-</p>
