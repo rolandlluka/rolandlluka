@@ -40,7 +40,7 @@ Strong focus on performance, clean architecture, and production-ready code.
 - **Frontend (when needed):** Vue.js, JavaScript, HTML, Chart.js, D3.js  
 - **Testing & Automation:** Selenium, Postman  
 - **Search & Data:** Elasticsearch  
-- **Background Processing:** Sidekiq  
+- **Background Processing:** Sidekiq, Resque
 
 ---
 
