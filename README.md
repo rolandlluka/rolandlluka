@@ -1,27 +1,30 @@
 <h1 align="center">Hi 👋, I'm Roland Lluka</h1>
+
 <h3 align="center">
-Backend-focused Software Engineer • Ruby on Rails • PHP/Laravel • AWS
+Backend Engineer focused on building scalable, production-grade systems
+<br />
+Ruby on Rails • Laravel • AWS
 </h3>
 
 <p align="center">
-I build scalable web applications, data-driven platforms, and reliable backend systems.
+I design and build reliable backend systems, APIs, and data-driven platforms.
 <br />
-Strong focus on performance, clean architecture, and production-ready code.
+Focused on performance, clean architecture, and systems that scale under real-world load.
 </p>
 
 ---
 
 ### 🚀 What I Do
 
-- 🧠 **Backend Engineering** with **Ruby on Rails** and **Laravel**
-- ☁️ **Cloud-native development** on **AWS**
-- ⚙️ Background jobs, APIs, crawlers, and data-heavy systems
-- 📈 Performance tuning, scaling, and reliability in production
-- 🧩 Comfortable working across backend, infrastructure, and frontend when needed
+- 🧠 Build **robust backend systems** using **Ruby on Rails** and **Laravel**
+- ☁️ Design and deploy **cloud-native architectures** on **AWS**
+- ⚙️ Develop **APIs, background jobs, crawlers, and data pipelines**
+- 📈 Optimize **performance, scalability, and system reliability**
+- 🧩 Work across **backend, infrastructure, and frontend** when needed
 
 ---
 
-### 🛠️ Core Tech Stack (Primary)
+### 🛠️ Core Stack
 
 <p align="left">
   <a href="https://rubyonrails.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40"/></a>
@@ -33,26 +36,26 @@ Strong focus on performance, clean architecture, and production-ready code.
 
 ---
 
-### 🧰 Supporting Tools & Technologies
+### 🧰 Tools & Technologies
 
 - **Databases:** PostgreSQL, MySQL, MariaDB, SQLite, Redis  
-- **Infrastructure & DevOps:** Docker, Linux, Heroku, CI/CD (CircleCI)  
-- **Frontend (when needed):** Vue.js, JavaScript, HTML, Chart.js, D3.js  
-- **Testing & Automation:** Selenium, Postman  
+- **Infrastructure:** Docker, Linux, AWS, Heroku, CI/CD (CircleCI)  
 - **Search & Data:** Elasticsearch  
-- **Background Processing:** Sidekiq, Resque
+- **Background Processing:** Sidekiq, Resque  
+- **Frontend (when needed):** Vue.js, JavaScript, Chart.js, D3.js  
+- **Testing & Automation:** Selenium, Postman  
 
 ---
 
-### 📌 Currently
+### 📌 Current Focus
 
-- 🔭 Working on **AMK** at [joinscholar.com](https://joinscholar.com)
-- 🌱 Learning **Vue** and **Python**
-- 💬 Open to discussions around **Rails performance, background jobs, scaling, and SaaS architecture**
+- 🔭 Building features for **AMK** at https://joinscholar.com  
+- 🌱 Expanding into **Vue** and **Python ecosystems**  
+- ⚡ Exploring **performance optimization, queue systems, and large-scale SaaS architectures**
 
 ---
 
-### 📫 Connect With Me
+### 🤝 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/rolandlluka" target="_blank">
