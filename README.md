@@ -58,11 +58,11 @@ Focused on performance, clean architecture, and systems that scale under real-wo
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/rolandlluka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  <a href="https://linkedin.com/in/rolandlluka" target="_blank" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>
   <a href="https://fb.com/rolandlluka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
   </a>
 </p>
 
