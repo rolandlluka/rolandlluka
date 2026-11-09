@@ -31,7 +31,7 @@ Focused on performance, clean architecture, and systems that scale under real-wo
   <a href="https://www.ruby-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40"/></a>
   <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
   <a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/></a>
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
+  <a href="https://aws.amazon.com"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/></a>
 </p>
 
 ---
